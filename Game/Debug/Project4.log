@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\barto\source\repos\Project4\Project4\Exit.h(3,1): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+C:\Users\barto\source\repos\Project4\Project4\Menu.h(2): message : see previous definition of 'MAX_NUMBER_OF_ITEMS'
+C:\Users\barto\source\repos\Project4\Project4\main.cpp(27,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\barto\source\repos\Project4\Project4\main.cpp(27,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\barto\source\repos\Project4\Project4\main.cpp(33,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\barto\source\repos\Project4\Project4\main.cpp(33,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\barto\source\repos\Project4\Project4\main.cpp(36,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\barto\source\repos\Project4\Project4\main.cpp(36,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Project4.vcxproj -> C:\Users\barto\source\repos\Project4\Debug\Gra.exe
